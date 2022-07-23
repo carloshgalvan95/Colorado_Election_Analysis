@@ -256,7 +256,7 @@ Python gives is a powerful tool that goes way beyond the capabilities of data an
 
 However, there are even better ways to do Data Analysis and the more tools we have, the better and quicker the job gets done. To demonstrate so, and also to think beyond the reach of the current audit analysis we can get the same exact results using Pandas dependency and Jupyter Notebooks, aka... 
 
-Election_Analysis2.0.**ipynb**
+[Election_Analysis2.0.**ipynb**](https://github.com/carloshgalvan95/Election_Analysis/blob/main/Election_Analysis2.0.ipynb)
 
 # Resources
 - Data Source: election_results.csv
