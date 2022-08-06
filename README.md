@@ -250,13 +250,13 @@ The candidate results were:
 :-------------------------:|:-------------------------:
 <img src="https://github.com/carloshgalvan95/Election_Analysis/blob/main/Resources/Vote_Turnout.png" height="365" width="1500" />  | <img src="https://github.com/carloshgalvan95/Election_Analysis/blob/main/Resources/Vote_Distribution.png" height="365" width="1500" />
 
-# Election_Analysis2.0.py
+# Election_Analysis2.0.ipynb
 ---
-Python gives is a powerful tool that goes way beyond the capabilities of data analysis that we could possibly imagine doing with just Microsoft Excel, both the size of the data and the processing speed we have with VBA or Excel cannot compare to well written Python code.
+Python gives us a powerful tool that goes way beyond the capabilities of data analysis that we could possibly imagine doing with just Microsoft Excel, both the size of the data and the processing speed we have with VBA or Excel cannot compare to well written Python code.
 
 However, there are even better ways to do Data Analysis and the more tools we have, the better and quicker the job gets done. To demonstrate so, and also to think beyond the reach of the current audit analysis we can get the same exact results using Pandas dependency and Jupyter Notebooks, aka... 
 
-Election_Analysis2.0.**ipynb**
+[Election_Analysis2.0.**ipynb**](https://github.com/carloshgalvan95/Election_Analysis/blob/main/Election_Analysis2.0.ipynb)
 
 # Resources
 - Data Source: election_results.csv
